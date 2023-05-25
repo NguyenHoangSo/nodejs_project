@@ -1,0 +1,27 @@
+@import 'variables';
+
+h1{
+    color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    color: aquamarine;
+    font-size: small;
+    background-color: $red-color 
+}
+.navbar{
+    background-color: rgb(18, 210, 210);
+}
+form{
+    margin-left: 50%;
+}
+.nav .math{
+    background-color: antiquewhite;
+    color: black;
+}
+.nav .physic{
+    background-color: aquamarine;
+}
+.nav .english{
+    background-color: beige;
+}

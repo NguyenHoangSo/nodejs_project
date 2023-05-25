@@ -1,0 +1,24 @@
+h1 {
+  color: aqua;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+h2 {
+  color: aquamarine;
+  font-size: small;
+  background-color: violet; }
+
+.navbar {
+  background-color: #12d2d2; }
+
+form {
+  margin-left: 50%; }
+
+.nav .math {
+  background-color: antiquewhite;
+  color: black; }
+
+.nav .physic {
+  background-color: aquamarine; }
+
+.nav .english {
+  background-color: beige; }
